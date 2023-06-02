@@ -794,7 +794,7 @@ a{
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
         font-family: var(--f19);
         font-size: 25px;
-        padding: 20px;
+        padding: 40px;
     }
 
     .dropdown-content:target
